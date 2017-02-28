@@ -1,3 +1,4 @@
+![Logo](luigi.png)
 # Luigi
 Version: 2.6.0
 
