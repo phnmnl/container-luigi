@@ -35,3 +35,5 @@ This container is built on top of `python:alpine` and its only aim is to run the
 ## Usage Instructions
 
 This will be deployed in your PhenoMeNal VRE, and accesible through a URL that will be provided to you.
+
+## Publications
